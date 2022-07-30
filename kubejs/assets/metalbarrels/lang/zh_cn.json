@@ -1,0 +1,14 @@
+{
+    "block.metalbarrels.copper_barrel": "工匠青铜桶",
+    "item.metalbarrels.copper_barrel": "工匠青铜桶",
+    "block.metalbarrels.silver_barrel": "奥术桶",
+    "item.metalbarrels.silver_barrel": "奥术桶",
+    "block.metalbarrels.gold_barrel": "钴桶",
+    "item.metalbarrels.gold_barrel": "钴桶",
+    "block.metalbarrels.iron_barrel": "硅钢桶",
+    "item.metalbarrels.iron_barrel": "硅钢桶",
+    "item.metalbarrels.wood_to_copper": "工匠青铜桶升级",
+    "item.metalbarrels.wood_to_iron": "硅钢桶升级",
+    "item.metalbarrels.wood_to_silver": "奥术桶升级",
+    "item.metalbarrels.wood_to_gold": "钴桶升级"
+}
